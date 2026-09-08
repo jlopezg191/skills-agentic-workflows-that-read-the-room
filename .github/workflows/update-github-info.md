@@ -8,6 +8,7 @@ permissions:
   contents: read
   metadata: read
 engine: copilot
+model: copilot/auto
 tools:
   edit:
   github:
